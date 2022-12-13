@@ -26,6 +26,7 @@
 //         throw  serviceStatus =responseString["result"];
 //       }
 //     } 
+
 //     else if(response.statusCode == 404) {
 //        throw serviceStatus ="404 Sunucu Servis hatası";
 
